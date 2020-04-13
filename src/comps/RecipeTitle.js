@@ -1,6 +1,6 @@
 import React from 'react'
 
-export class Recipe extends React.Component
+export class RecipeTitle extends React.Component
 {
 	render()
 	{
@@ -12,4 +12,4 @@ export class Recipe extends React.Component
 	}
 }
 
-export default Recipe;
+export default RecipeTitle;
